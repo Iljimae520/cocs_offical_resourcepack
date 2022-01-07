@@ -1,0 +1,101 @@
+{
+  "sans.resource.hit": {
+    "subtitle": "Sans Hurt",
+    "sounds": [
+      {
+        "name": "sans/hit",
+        "volume": 1,
+        "pitch": 1,
+        "streaming": false
+      }
+    ]
+  },
+  "sans.resource.death": {
+    "subtitle": "Soul Death",
+    "sounds": [
+      {
+        "name": "sans/death",
+        "volume": 1,
+        "pitch": 1,
+        "streaming": false
+      }
+    ]
+  },
+  "sans.resource.blaster_charge": {
+    "subtitle": "Blaster Charge",
+    "sounds": [
+      {
+        "name": "sans/charge",
+        "volume": 1,
+        "pitch": 1,
+        "streaming": false
+      }
+    ]
+  },
+  "sans.resource.blaster_fire": {
+    "subtitle": "Blaster Fire",
+    "sounds": [
+      {
+        "name": "sans/fire",
+        "volume": 1,
+        "pitch": 1,
+        "streaming": false
+      }
+    ]
+  },
+  "sans.resource.telekinesis": {
+    "subtitle": "Telekinesis",
+    "sounds": [
+      {
+        "name": "sans/tele",
+        "volume": 1,
+        "pitch": 1,
+        "streaming": false
+      }
+    ]
+  },
+  "sans.resource.timeskip": {
+    "subtitle": "Timeskip",
+    "sounds": [
+      {
+        "name": "sans/stop",
+        "volume": 1,
+        "pitch": 1,
+        "streaming": false
+      }
+    ]
+  },
+  "sans.resource.boneready": {
+    "subtitle": "Watch out!",
+    "sounds": [
+      {
+        "name": "sans/boneready",
+        "volume": 1,
+        "pitch": 1,
+        "streaming": false
+      }
+    ]
+  },
+  "sans.resource.bonerise": {
+    "subtitle": "Bone Zone!",
+    "sounds": [
+      {
+        "name": "sans/bonerise",
+        "volume": 1,
+        "pitch": 1,
+        "streaming": false
+      }
+    ]
+  },
+  "sans.resource.abc123": {
+    "subtitle": "nononononono",
+    "sounds": [
+      {
+        "name": "sans/abc_123",
+        "volume": 10,
+        "pitch": 1,
+        "streaming": false
+      }
+    ]
+  }
+}

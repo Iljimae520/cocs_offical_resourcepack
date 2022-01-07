@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+   "overrides": [
+ {"predicate": {"custom_model_data":1000000}, "model": "item/floomo/floomo_gold"},
+ {"predicate": {"custom_model_data":1100000}, "model": "item/floomo/floomo_silver"},
+ {"predicate": {"custom_model_data":1110000}, "model": "item/floomo/floomo_copper"}
+ ]
+}

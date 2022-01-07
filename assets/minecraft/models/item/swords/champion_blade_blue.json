@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/champion_blade_blue"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [41, 90, 0],
+			"translation": [0.25, 9.5, 0.5],
+			"scale": [1.4, 1.4, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [41, 90, 0],
+			"translation": [0.25, 9.5, 0.5],
+			"scale": [-1.4, 1.4, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [38, 90, 0],
+			"translation": [0, 2, 0],
+			"scale": [1.4, 1.4, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [38, 90, 0],
+			"translation": [0, 2, 0],
+			"scale": [-1.4, 1.4, 1]
+		},
+		"head": {
+			"rotation": [0, 90, -15],
+			"translation": [0, 5.25, -8],
+			"scale": [1.4, 1.4, 1]
+		}
+	},
+	"groups": [
+		{
+			"name": "champion_blade_i",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	]
+}
