@@ -11,7 +11,9 @@
  {"predicate": {"custom_model_data":3000002}, "model": "item/swords/champion_blade_blue"},
  {"predicate": {"custom_model_data":4000000}, "model": "item/swords/astral_blade"},
  {"predicate": {"custom_model_data":5000000}, "model": "item/swords/cataclysmic_catastrophe"},
- {"predicate": {"custom_model_data":6000000}, "model": "item/swords/exo_gladius"}
+ {"predicate": {"custom_model_data":6000000}, "model": "item/swords/exo_gladius"},
+ {"predicate": {"custom_model_data":6000001}, "model": "item/swords/celestus"},
+ {"predicate": {"custom_model_data":7000000}, "model": "item/neptune/bounty"}
 
  ]
 }

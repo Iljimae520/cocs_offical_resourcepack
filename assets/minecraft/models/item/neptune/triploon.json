@@ -2,28 +2,28 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "terrariaarsenal:items/bow/astral_blaster"
+		"layer0": "item/neptune/triploon"
 	},
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, 90, 0],
-			"translation": [0, 0.5, -4],
-			"scale": [1, 0.5, 0.9]
+			"translation": [0, 0.5, 0.75],
+			"scale": [1, 1, 0.9]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, 90, 0],
-			"translation": [0, 0.5, -4],
-			"scale": [-1, 0.5, 0.9]
+			"translation": [0, 0.5, 0.75],
+			"scale": [-1, 1, 0.9]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 90, 0],
+			"rotation": [0, 106, 5],
 			"translation": [0, 0.5, -4],
-			"scale": [1, 0.5, 0.9]
+			"scale": [1, 1, 0.9]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 90, 0],
+			"rotation": [0, 106, 5],
 			"translation": [0, 0.5, -4],
-			"scale": [-1, 0.5, 0.9]
+			"scale": [-1, 1, 0.9]
 		},
 		"ground": {
 			"rotation": [0, 90, 0],
@@ -31,25 +31,18 @@
 			"scale": [1, 0.5, 0.9]
 		},
 		"gui": {
-			"scale": [1, 0.5, 0.9]
+			"scale": [1, 0.8, 0.9]
 		},
 		"fixed": {
-			"scale": [1, 0.5, 0.9]
+			"scale": [1, 0.8, 0.9]
 		}
 	},
 	"groups": [
 		{
-			"name": "astral_blaster",
+			"name": "triploon",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [
-				{
-					"name": "astral_cannon",
-					"origin": [8, 8, 8],
-					"color": 0,
-					"children": []
-				}
-			]
+			"children": []
 		}
 	]
 }

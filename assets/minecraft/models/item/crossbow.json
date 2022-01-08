@@ -84,6 +84,45 @@
                 "custom_model_data":1000001
             },
             "model": "item/bow/astral_blaster_loaded"
+        },
+        {
+            "predicate": {
+                "custom_model_data":7000000
+            }, 
+             "model": "item/neptune/flak_cannon"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data":7000000
+            },
+            "model": "item/neptune/flak_cannon_loaded"
+        },
+        {
+            "predicate": {
+                "custom_model_data":7000001
+            }, 
+             "model": "item/neptune/megalodon"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data":7000001
+            },
+            "model": "item/neptune/megalodon_loaded"
+        },
+        {
+            "predicate": {
+                "custom_model_data":7000002
+            }, 
+             "model": "item/neptune/triploon"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data":7000002
+            },
+            "model": "item/neptune/triploon_loaded"
         }
     ]
 }

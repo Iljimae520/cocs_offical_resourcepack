@@ -25,19 +25,5 @@
 			"translation": [0, 2, 3],
 			"scale": [1, 1, 0.68]
 		}
-	},
-	"groups": [
-		{
-			"name": "nightfall",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": []
-		},
-		{
-			"name": "nights_edge",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": []
-		}
-	]
+	}
 }
