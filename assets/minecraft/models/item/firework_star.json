@@ -13,6 +13,8 @@
  {"predicate": {"custom_model_data":2000000}, "model": "item/misc/shroomite"},
  {"predicate": {"custom_model_data":3000000}, "model": "item/misc/meteor_crown"},
  {"predicate": {"custom_model_data":4000000}, "model": "item/misc/meteor_shard"},
- {"predicate": {"custom_model_data":5000000}, "model": "item/misc/astral_arcanum"}
+ {"predicate": {"custom_model_data":5000000}, "model": "item/misc/astral_arcanum"},
+ {"predicate": {"custom_model_data":6000000}, "model": "item/staves/nova_spark"}
+
  ]
 }

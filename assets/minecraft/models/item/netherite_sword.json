@@ -6,8 +6,8 @@
      "overrides": [
 
  {"predicate": {"custom_model_data":1000000}, "model": "item/swords/nightfall"},
- {"predicate": {"custom_model_data":2000000}, "model": "item/swords/true_enchanters_sword"}
-
+ {"predicate": {"custom_model_data":2000000}, "model": "item/swords/true_enchanters_sword"},
+ {"predicate": {"custom_model_data":4000000}, "model": "item/swords/astral_blade"}
 
  ]
 }

@@ -3,7 +3,8 @@
   "textures": {
     "layer0": "minecraft:item/netherite_axe"},
   "overrides": [
- {"predicate": {"custom_model_data":1000000}, "model": "item/swords/aerial_hamaxe"},
- {"predicate": {"custom_model_data":2000000}, "model": "item/swords/executioner"}
+ {"predicate": {"custom_model_data":1000000}, "model": "item/swords/astral_hamaxe"},
+ {"predicate": {"custom_model_data":2000000}, "model": "item/swords/aerial_hamaxe"},
+ {"predicate": {"custom_model_data":3000000}, "model": "item/swords/executioner"}
  ]
 }
